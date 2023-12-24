@@ -24,7 +24,7 @@ The analysis is performed on a dataset with the following steps:
 
 ## Implementation
 
-Each classification algorithm is implemented separately with detailed comments and explanations. The goal is to showcase how these algorithms can be implemented both with and without external libraries.
+Each classification algorithm is implemented separately with detailed comments and explanations. The goal is to showcase how these algorithms can be implemented both with and without external libraries and how different algorithm can give differnet accuracy for a particular datase.
 
 Happy coding!
 
